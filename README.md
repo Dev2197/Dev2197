@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Devendra Kumar</h1>
-<h3 align="center">A passionate Full Stack Web developer from Andhra Pradesh, India</h3>
+<h3 align="center">I'm a passionate Full Stack Web developer from Andhra Pradesh, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev2197&label=Profile%20views&color=0e75b6&style=flat" alt="dev2197" /> </p>
 
-<img align="right" src="imagegif.gif" alt="imgae" />
+
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
 
@@ -14,6 +14,8 @@
 - 💬 Ask me about **React, Redux, Express, MongoDB and DSA**
 
 - 📫 How to reach me **devendrakumart8@gmail.com**
+
+<img align="right" src="imagegif.gif" alt="imgae" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +32,9 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev2197&show_icons=true&locale=en&layout=compact" alt="dev2197" /></p>
+
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev2197&show_icons=true&locale=en" alt="dev2197" /></p>
 
