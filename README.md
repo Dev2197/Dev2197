@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Devendra Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Web developer from Andhra Pradesh, India</h3>
 
-
+<img align="right" src="7SvA.gif" alt="imgae" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev2197&label=Profile%20views&color=0e75b6&style=flat" alt="dev2197" /> </p>
 
@@ -23,8 +23,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/devendra-kumar-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devendra-kumar-/" height="30" width="40" /></a>
 </p>
-
-<img align="right" src="7SvA.gif" alt="imgae" />
 
 <br>
 <br>
