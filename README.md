@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev2197&label=Profile%20views&color=0e75b6&style=flat" alt="dev2197" /> </p>
 
-<img align="right" src="./magegig.gif" alt="imgae" />
+<img align="right" src="imagegif.gif" alt="imgae" />
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
 
