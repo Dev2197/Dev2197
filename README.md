@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Devendra Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Devendra Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Web developer from Guntur, Andhra Pradesh, India</h3>
 
 <!-- <img align="right" src="7SvA.gif" alt="imgae" /> -->
