@@ -9,11 +9,11 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
+- 🌱 Senior Full Stack Web Developer
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Open to collaborating on **Open Source Projects**
 
-- 💬 Ask me about **React, Redux, Express, MongoDB and DSA**
+- 🎯 Focused on building scalable and efficient web applications
 
 - 📫 How to reach me **devendrakumart8@gmail.com**
 
