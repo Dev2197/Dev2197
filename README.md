@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Devendra Kumar</h1>
-<h3 align="center">I'm a passionate Full Stack Web developer from Guntur, Andhra Pradesh, India</h3>
+<h3 align="center">I'm a passionate Senior Full Stack Web developer</h3>
 
 <!-- <img align="right" src="7SvA.gif" alt="imgae" /> -->
 
